@@ -1,0 +1,14 @@
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.csprojAssemblyReference.cache
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.csproj.CoreCompileInputs.cache
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_1\Lesson1_1\bin\Debug\Lesson1_1.exe.config
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_1\Lesson1_1\bin\Debug\Lesson1_1.exe
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_1\Lesson1_1\bin\Debug\Lesson1_1.pdb
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.exe
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.pdb
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\1\Lesson1_1\Lesson1_1\bin\Debug\Lesson1_1.exe.config
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\1\Lesson1_1\Lesson1_1\bin\Debug\Lesson1_1.exe
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\1\Lesson1_1\Lesson1_1\bin\Debug\Lesson1_1.pdb
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\1\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.csprojAssemblyReference.cache
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\1\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.csproj.CoreCompileInputs.cache
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\1\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.exe
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\1\Lesson1_1\Lesson1_1\obj\Debug\Lesson1_1.pdb

@@ -1,0 +1,7 @@
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_2\Lesson1_2\obj\Debug\Lesson1_2.csprojAssemblyReference.cache
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_2\Lesson1_2\obj\Debug\Lesson1_2.csproj.CoreCompileInputs.cache
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_2\Lesson1_2\bin\Debug\Lesson1_2.exe.config
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_2\Lesson1_2\bin\Debug\Lesson1_2.exe
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_2\Lesson1_2\bin\Debug\Lesson1_2.pdb
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_2\Lesson1_2\obj\Debug\Lesson1_2.exe
+C:\Users\hellras\Desktop\Geekbrains\Algorithms\Lesson1_2\Lesson1_2\obj\Debug\Lesson1_2.pdb
